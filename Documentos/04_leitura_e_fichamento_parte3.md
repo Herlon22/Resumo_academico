@@ -13,9 +13,9 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 * DOI ou URL:
  `[https://revistatopicos.com.br/artigos/inteligencia-artificial-na-educacao-desafios-e-oportunidades-no-processo-de-ensino-aprendizagem]`
   
-* Base de origem: `[preencher]`
+* Base de origem: `[Revista Tópicos]`
   
-* Leitor responsável: `[preencher]`
+* Leitor responsável: `[Juan]`
   
 * Data da leitura: `[12/08/2026]`
 
