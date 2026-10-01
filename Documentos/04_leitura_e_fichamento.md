@@ -8,7 +8,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `[O uso da inteligência artificial na educação e o desenvolvimento de competência dos estudantes, Letramento em IA e educação secundaria, Inteligência artificial na educação: desafios e oportunidades no processo de ensino e aprendizagem ]`
+* Referência completa: `[O uso da inteligência artificial na educação e o desenvolvimento de competência dos estudantes, Inteligência artificial na educação: desafios e oportunidades no processo de ensino e aprendizagem ]`
   
 * DOI ou URL:
  `[https://www.scielo.br/j/edur/a/vnXmgcZYr4hd9fW7ZSFGqMq/?lang=pt#top,
