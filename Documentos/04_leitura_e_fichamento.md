@@ -13,7 +13,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 * DOI ou URL:
  `[https://www.scielo.br/j/edur/a/vnXmgcZYr4hd9fW7ZSFGqMq/?lang=pt#top]`
   
-* Base de origem: `[SCIELO]`
+* Base de origem: `[Educação em Revista]`
   
 * Leitor responsável: `[Juan]`
   
