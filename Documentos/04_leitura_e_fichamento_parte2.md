@@ -17,7 +17,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
   
 * Leitor responsável: `[preencher]`
   
-* Data da leitura: `[dd/mm/aaaa]`
+* Data da leitura: `[29/08/2025]`
 
 ## Fichamento
 
