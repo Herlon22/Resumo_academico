@@ -11,9 +11,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 * Referência completa: `[O uso da inteligência artificial na educação e o desenvolvimento de competência dos estudantes.]`
   
 * DOI ou URL:
- `[https://www.scielo.br/j/edur/a/vnXmgcZYr4hd9fW7ZSFGqMq/?lang=pt#top,
-  https://revistatopicos.com.br/artigos/inteligencia-artificial-na-educacao-desafios-e-oportunidades-no-processo-de-ensino-aprendizagem,
-  https://periodicos.uerr.edu.br/index.php/ambiente/pt_BR/article/view/1677 ]`
+ `[https://www.scielo.br/j/edur/a/vnXmgcZYr4hd9fW7ZSFGqMq/?lang=pt#top]`
   
 * Base de origem: `[preencher]`
   
