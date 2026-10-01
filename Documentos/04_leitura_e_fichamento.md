@@ -8,10 +8,17 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ## Identificação do artigo
 
-* Referência completa: `[preencher]`
-* DOI ou URL: `[preencher]`
+* Referência completa: `[O uso da inteligência artificial na educação e o desenvolvimento de competência dos estudantes, Letramento em IA e educação secundaria, Inteligência artificial na educação: desafios e oportunidades no processo de ensino e aprendizagem ]`
+  
+* DOI ou URL:
+ `[https://www.scielo.br/j/edur/a/vnXmgcZYr4hd9fW7ZSFGqMq/?lang=pt#top,
+  https://revistatopicos.com.br/artigos/inteligencia-artificial-na-educacao-desafios-e-oportunidades-no-processo-de-ensino-aprendizagem,
+  https://periodicos.uerr.edu.br/index.php/ambiente/pt_BR/article/view/1677 ]`
+  
 * Base de origem: `[preencher]`
+  
 * Leitor responsável: `[preencher]`
+  
 * Data da leitura: `[dd/mm/aaaa]`
 
 ## Fichamento
