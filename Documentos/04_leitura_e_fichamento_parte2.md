@@ -13,9 +13,9 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 * DOI ou URL:
  `[https://periodicos.uerr.edu.br/index.php/ambiente/pt_BR/article/view/1677]`
   
-* Base de origem: `[preencher]`
+* Base de origem: `[SIPEC]`
   
-* Leitor responsável: `[preencher]`
+* Leitor responsável: `[Juan]`
   
 * Data da leitura: `[29/08/2025]`
 
