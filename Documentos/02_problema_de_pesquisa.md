@@ -40,4 +40,7 @@ Pergunta de pesquisa aprovada.
 
 | Integrante | Atividade realizada |
 |---|---|
-| `Juan` | `[preencher]` |
+| `[Filipe]` | `[GIT,GITHUB]` |
+| `[Herlon]` | `[Ideias]` |
+| `[Arthur]` | `[Consultas]` |
+| `[Juan]` | `[Escrita, Pesquisa, Corretor]` |
