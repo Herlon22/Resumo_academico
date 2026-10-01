@@ -12,7 +12,8 @@ A IA saiu de simples corretora de exercícios e virou um assistente que conversa
 ## Objetivo geral
 
 `[Como a Inteligência Artificial tem evoluído e transformado os processos de ensino e aprendizagem na educação contemporânea, segundo a literatura científica? 
-A IA saiu de simples corretora de exercícios e virou um assistente que conversa. Ela pode ser uma ótima professora particular se for usada para guiar o aluno, mas prejudica se virar um atalho para respostas prontas.] `
+A IA saiu de simples corretora de exercícios e virou um assistente que conversa. Ela pode ser uma ótima professora particular se for usada para guiar o aluno, mas prejudica se virar um atalho para respostas prontas.
+Analisar a evolução da Inteligência Artificial e o seu impacto nos processos de ensino e aprendizagem na educação, por meio de uma revisão bibliográfica de natureza qualitativa baseada em artigos científicos.] `
 
 ## Objetivos específicos
 
