@@ -22,7 +22,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
   
 - A pergunta pode ser respondida por artigos científicos? `[Sim. Ela pode ser respondida por meios de artigos científicos, pois há pesquisas publicadas que investigam largamente, a Inteligência Artificial, contribuições e desafios na aprendizagem.]`
   
-- Por que essa pergunta é relevante? `[A pesquisa é relvante em razão da Inteligência Artificial vem ampliando as fronteiras de utlidades no âmbito organizacional. Entender como essas ferramentas são introduzidas no processo de educação e aprendizado, além das suas contribuições.]`
+- Por que essa pergunta é relevante? `[A pesquisa é relevante em razão da Inteligência Artificial vem ampliando as fronteiras de utlidades no âmbito organizacional. Entender como essas ferramentas são introduzidas no processo de educação e aprendizado, além das suas contribuições.]`
 
 ## Produto da etapa
 
