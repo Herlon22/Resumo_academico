@@ -10,7 +10,7 @@ Transforme o tema em uma pergunta clara, específica e respondível por meio da 
 
 ## Pergunta de pesquisa
 
-`[Como está sendo a utlizado a tecnologia da Inteligência Artificial como ferramenta de auxílio no ambiente da educação?]`
+`[Como está sendo utlizado a tecnologia da Inteligência Artificial como ferramenta de auxílio no ambiente da educação?]`
 
 ## Verificação
 
