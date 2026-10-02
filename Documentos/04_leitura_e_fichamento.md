@@ -23,11 +23,14 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Problema investigado
 
-`[preencher]`
+`[O problema investigado no artigo é que:
+em que condições a inteligência artificial (IA) pode gerar oportunidades educacionais e contribuir para o processo de ensino-aprendizagem sem comprometer ou enfraquecer a autonomia intelectual, a autoria, a equidade e a proteção de dados dos estudantes]`
 
 ### Objetivo do estudo
 
-`[preencher]`
+`[Examinar evidências sobre personalização e tutoria: analisar a eficácia e o papel de sistemas adaptativos e tutores inteligentes no apoio aos estudantes.
+Discutir os impactos no trabalho docente e na avaliação:investigar como a IA altera as práticas de planejamento, a mediação do professor e os métodos de avaliação acadêmica e verificação de autoria.
+Propor condições institucionais para uma adoção responsável: apresentar diretrizes e critérios de governança para que as instituições de ensino implementem a IA de forma ética, segura e pedagogicamente adequada.]`
 
 ### Método utilizado
 
@@ -57,7 +60,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 > `[trecho exato]`
 
-Página: `[número]`
+Página: `[6]`
 
 ## Checklist
 
