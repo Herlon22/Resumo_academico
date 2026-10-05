@@ -58,15 +58,15 @@ Concordncias:Risco da automação: Concorda-se plenamente com o alerta de que o 
 
 ### Citação literal opcional
 
-> `[trecho exato]`
+> `A utilização de ferramentas de IA pelos estudantes é uma realidade que não pode ser negada (Johnston et al., 2024)`
 
-Página: `[6]`
+Página: `[3]`
 
 ## Checklist
 
-* [ ] O artigo foi lido além do resumo.
-* [ ] O método e os resultados foram identificados.
-* [ ] As limitações foram registradas.
-* [ ] A conexão com o tema foi explicada.
-* [ ] Toda citação literal contém página.
+* [x] O artigo foi lido além do resumo.
+* [x] O método e os resultados foram identificados.
+* [x] As limitações foram registradas.
+* [x] A conexão com o tema foi explicada.
+* [x] Toda citação literal contém página.
 
