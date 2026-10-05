@@ -58,7 +58,7 @@ Concordncias:Risco da automação: Concorda-se plenamente com o alerta de que o 
 
 ### Citação literal opcional
 
-> `A utilização de ferramentas de IA pelos estudantes é uma realidade que não pode ser negada (Johnston et al., 2024)`
+> `[A utilização de ferramentas de IA pelos estudantes é uma realidade que não pode ser negada (Johnston et al., 2024)]`
 
 Página: `[3]`
 
