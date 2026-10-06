@@ -28,7 +28,7 @@ Assim, a utilização de IA generativa em sala de aula não pode substituir o de
 
 ### Objetivo do estudo
 
-`[Analisar qual é o impacto no desenvolvimento de habilidades e na rotina dos professores, investigar como a inteligência artificial (especialmente a generativa) afeta o processo de ensino e aprendizagem, buscando evitar que a automação substitua o desenvolvimento de competências essenciais (cognitivas, sociais, emocionais e profissionais) dos estudantes.Envolve também refletir sobre as transformações no trabalho do professor e a necessidade de aplicar os novos métodos da avaliação acadêmica diante das novas possibilidades e riscos à formação do aluno/aluna.]`
+`[o objetivo do estudo ao analisar qual é o impacto no desenvolvimento de habilidades e na rotina dos professores, investigar como a inteligência artificial (especialmente a generativa) afeta o processo de ensino e aprendizagem, buscando evitar que a automação substitua o desenvolvimento de competências essenciais (cognitivas, sociais, emocionais e profissionais) dos estudantes.Envolve também refletir sobre as transformações no trabalho do professor e a necessidade de aplicar os novos métodos da avaliação acadêmica diante das novas possibilidades e riscos à formação do aluno/aluna.]`
 
 ### Método utilizado
 
