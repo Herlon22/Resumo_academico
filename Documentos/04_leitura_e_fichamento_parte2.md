@@ -62,7 +62,7 @@ Por outro lado, uma fragilidade está relacionada à quantidade limitada de estu
 
 ### Citação literal opcional
 
-> `[o Letramento em IA (LIA) será adotado neste artigo para descrever a habilidade de utilizar de forma crítica e consciente as ferramentas de Inteligência Artificial.]`
+`[o Letramento em IA (LIA) será adotado neste artigo para descrever a habilidade de utilizar de forma crítica e consciente as ferramentas de Inteligência Artificial.]`
 
 Página: `[5]`
 
