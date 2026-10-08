@@ -14,9 +14,14 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`[preencher]`|`[SOLIVEIRA et al./2025]`|`[preencher]`|`[preencher]`|`[erros conceituais, vieses e alucinações (criação de respostas erradas e fora do contexto]`|`[preencher]`|
-|`[preencher]`|`[Macedo et al./2026]`|`[preencher]`|`[preencher]`|`[falta de consenso sobre o significado de IA e LIA]`|`[preencher]`|
-|`[preencher]`|`[Grossi et al./2025]`|`[preencher]`|`[preencher]`|`[suposições de como seria o uso da ferramenta no ensino para alunos e tutores]`|`[preencher]`|
+|`[o impacto no desenvolvimento de habilidades e na rotina dos professores com a IA Generativa]`|`[SOLIVEIRA et al./2025]`|`[preencher]`|`[preencher]`|`[erros conceituais, vieses e alucinações (criação de respostas erradas e fora do contexto]`|`[preencher]`|
+
+
+|`[Análise e desafios na aprendizagem com IA Generativa]`|`[Macedo et al./2026]`|`[preencher]`|`[preencher]`|`[falta de consenso sobre o significado de IA e LIA]`|`[preencher]`|
+
+
+
+|`[O aprendizado do uso adequado da IA Generativa]`|`[Grossi et al./2025]`|`[preencher]`|`[preencher]`|`[suposições de como seria o uso da ferramenta no ensino para alunos e tutores]`|`[preencher]`|
 
 ## Roteiro da revisão da literatura
 
