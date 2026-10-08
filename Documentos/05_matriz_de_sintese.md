@@ -27,7 +27,8 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ### Eixo 1
 
-* Ideia principal: `[preencher]`
+* Ideia principal: `[investigar como a inteligência artificial (especialmente a generativa) afeta o processo de ensino e aprendizagem, buscando evitar que a automação substitua o desenvolvimento de competências essenciais]`
+  
 * Evidências que serão usadas: `[preencher]`
 * Comparação entre estudos: `[preencher]`
 * Ligação com o problema: `[preencher]`
