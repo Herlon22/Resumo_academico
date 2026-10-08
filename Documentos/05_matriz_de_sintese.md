@@ -14,7 +14,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[erros conceituais, vieses e "alucinações]`|`[preencher]`|
 |`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
 |`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
 
