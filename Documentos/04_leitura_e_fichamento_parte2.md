@@ -36,7 +36,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 ### Contexto, amostra ou dados
 
 `[A pesquisa analisou trabalhos relacionados ao letramento em Inteligência Artificial na área da educação. Dos 49 trabalhos encontrados inicialmente, apenas 10 foram selecionados para a etapa final da pesquisa.
-Os critérios utilizados para excluir os trabalhos foram: não estar disponível para acesso gratuito, não apresentar o LIA como foco ou não desenvolver o tema ao longo do texto e não estar relacionado à área educacional.
+Os critérios utilizados para excluir os trabalhos foram: não estar disponível para acesso gratuito, não apresentar o LIA (Assistente Literária / Ednei Procópio) como foco ou não desenvolver o tema ao longo do texto e não estar relacionado à área educacional.
 Após a seleção dos estudos, eles foram organizados em categorias, levando em consideração aspectos como o foco da pesquisa, as tecnologias de IA utilizadas, a definição de Inteligência Artificial e a forma como o letramento em IA era compreendido.]`
 
 ### Principais resultados
