@@ -21,7 +21,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 
 
-|`[O aprendizado do uso adequado da IA Generativa]`|`[Grossi et al./2025]`|`[preencher]`|`[preencher]`|`[suposições de como seria o uso da ferramenta no ensino para alunos e tutores]`|`[preencher]`|
+|`[O aprendizado do uso adequado da IA Generativa]`|`[Grossi et al./2025]`|`[preencher]`|`[preencher]`|`[suposições de como seria o uso da ferramenta no ensino para alunos e tutores]`|`[Pesquisas sem dados concretos]`|
 
 ## Roteiro da revisão da literatura
 
@@ -45,8 +45,8 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Checklist
 
-* [ ] Os artigos foram agrupados por ideias.
-* [ ] Há comparações entre estudos.
+* [x] Os artigos foram agrupados por ideias.
+* [x] Há comparações entre estudos.
 * [ ] As divergências foram registradas.
-* [ ] As lacunas são específicas e sustentadas pelas leituras.
+* [x] As lacunas são específicas e sustentadas pelas leituras.
 
