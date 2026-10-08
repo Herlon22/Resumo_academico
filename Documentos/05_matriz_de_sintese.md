@@ -6,7 +6,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Eixos da revisão
 
-1. `[Eixo ou subtema 1]`
+1. `[o impacto no desenvolvimento de habilidades e na rotina dos professores com a IA]`
 2. `[Análise e desafios na aprendizagem com IA]`
 3. `[Eixo ou subtema 3, se necessário]`
 
