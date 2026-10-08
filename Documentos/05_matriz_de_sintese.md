@@ -14,7 +14,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
-|`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[erros conceituais, vieses e alucinações (criação de respostas erradas e fora do contexto]`|`[preencher]`|
+|`[preencher]`|`[SOLIVEIRA/2025]`|`[preencher]`|`[preencher]`|`[erros conceituais, vieses e alucinações (criação de respostas erradas e fora do contexto]`|`[preencher]`|
 |`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[falta de consenso sobre o significado de IA e LIA]`|`[preencher]`|
 |`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[suposições de como seria o uso da ferramenta no ensino para alunos e tutores]`|`[preencher]`|
 
