@@ -42,7 +42,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
   ### Eixo 3
 
-* Ideia principal: `[ A intenção foi identificar o que os estudos já publicados apresentam sobre o assunto, dando atenção principalmente às pesquisas realizadas]`
+* Ideia principal: `[ Analisar os desafios e as possibilidades da IA no processo de ensino e aprendizagem. O estudo examina a personalização e o uso da IA como tutor no ensino, os impactos para o trabalho dos professores e para a avaliação, os riscos de dependência pelo uso excessivo da ferramenta, além dos tratamentos de dados.]`
 * Evidências que serão usadas: `[preencher]`
 * Comparação entre estudos: `[preencher]`
 * Ligação com o problema: `[preencher]`
