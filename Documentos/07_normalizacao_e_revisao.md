@@ -6,7 +6,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 
 ## Identificação
 
-* Título do artigo: `[preencher]`
+* Título do artigo: `[A evolução da Inteligência Artificial na educação]`
 * Versão revisada: `[número]`
 * Data: `[dd/mm/aaaa]`
 * Responsável pela conferência final: `[preencher]`
@@ -17,7 +17,7 @@ Revise o conteúdo, as citações, as referências e a formatação antes da ent
 * [ ] As conclusões respondem ao problema.
 * [ ] Não existem afirmações sem fonte quando a fonte é necessária.
 * [ ] As limitações do trabalho foram reconhecidas.
-* [ ] Não foram incluídos resultados inexistentes.
+* [X] Não foram incluídos resultados inexistentes.
 
 ## Citações e referências
 
