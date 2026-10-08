@@ -7,7 +7,7 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 ## Eixos da revisão
 
 1. `[Eixo ou subtema 1]`
-2. `[Eixo ou subtema 2]`
+2. `[Análise e desafios na aprendizagem com IA]`
 3. `[Eixo ou subtema 3, se necessário]`
 
 ## Matriz de síntese
