@@ -6,14 +6,16 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ## Eixos da revisão
 
-1. `[o impacto no desenvolvimento de habilidades e na rotina dos professores com a IA]`
-2. `[Análise e desafios na aprendizagem com IA]`
-3. `[Eixo ou subtema 3, se necessário]`
+1. `[o impacto no desenvolvimento de habilidades e na rotina dos professores com a IA Generativa]`
+2. `[Análise e desafios na aprendizagem com IA Generativa]`
+3. `[O aprendizado do uso adequado da IA Generativa]`
 
 ## Matriz de síntese
 
 |Eixo|Artigos relacionados|Convergências|Divergências|Limitações|Lacunas|
 |-|-|-|-|-|-|
+|`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
+|`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
 |`[preencher]`|`[autores/anos]`|`[preencher]`|`[preencher]`|`[preencher]`|`[preencher]`|
 
 ## Roteiro da revisão da literatura
