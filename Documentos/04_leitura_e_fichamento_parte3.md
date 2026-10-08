@@ -43,7 +43,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Limitações apresentadas
 
-`[Há uma limitação em relação aos estudos elaborados na pesquisa, pois não há um dado concreto de como a IA está sendo utilizada no ensino, apenas suposições de como seria o uso da ferramenta. Dessa maneira, os autores indicam analisar, com mais tempo de pesquisa, como as instituições brasileiras estão utilizando a IA e seus benefícios. Com isso, pedem uma análise e uma pesquisa empírica mais profunda e concreta.]`
+`[Há uma limitação em relação aos estudos elaborados na pesquisa, pois não há um dado concreto de como a IA está sendo utilizada no ensino, apenas suposições de como seria o uso da ferramenta no ensino para alunos e tutores. Dessa maneira, os autores indicam analisar, com mais tempo de pesquisa, como as instituições brasileiras estão utilizando a IA e seus benefícios. Com isso, pedem uma análise e uma pesquisa empírica mais profunda e concreta.]`
 
 ### Contribuição para o nosso artigo
 
