@@ -35,7 +35,14 @@ Compare os artigos e organize a revisão por temas ou eixos. Não produza apenas
 
 ### Eixo 2
 
-* Ideia principal: `[preencher]`
+* Ideia principal: `[ A intenção foi identificar o que os estudos já publicados apresentam sobre o assunto, dando atenção principalmente às pesquisas realizadas]`
+* Evidências que serão usadas: `[preencher]`
+* Comparação entre estudos: `[preencher]`
+* Ligação com o problema: `[preencher]`
+
+  ### Eixo 3
+
+* Ideia principal: `[ A intenção foi identificar o que os estudos já publicados apresentam sobre o assunto, dando atenção principalmente às pesquisas realizadas]`
 * Evidências que serão usadas: `[preencher]`
 * Comparação entre estudos: `[preencher]`
 * Ligação com o problema: `[preencher]`
