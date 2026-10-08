@@ -58,7 +58,7 @@ Conclui-se que a Inteligência Artificial pode contribuir para a educação quan
 
 ## Referências
 
-`[Liste apenas as fontes citadas, conforme o padrão solicitado.]`
+`[Educação em Revista, ]`
 
 ## Checklist
 
