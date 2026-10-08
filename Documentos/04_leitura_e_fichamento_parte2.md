@@ -23,7 +23,7 @@ Obrigatoriedade de três artigos com no máximo 5 anos, ou seja, de publicação
 
 ### Problema investigado
 
-`[O estudo visa entender o que as pesquisas brasileiras têm mostrado sobre o letramento em Inteligência Artificial (LIA) na educação. Esse tema vem sendo cada vez mais discutido devido ao crescimento do uso de ferramentas de IA no ambiente educacional e à necessidade de preparar tanto professores quanto estudantes para utilizá-las de forma consciente.]`
+`[O estudo visa entender o que as pesquisas brasileiras têm mostrado sobre o letramento em Inteligência Artificial (IA) na educação. Esse tema vem sendo cada vez mais discutido devido ao crescimento do uso de ferramentas de IA no ambiente educacional e à necessidade de preparar tanto professores quanto estudantes para utilizá-las de forma consciente.]`
 
 ### Objetivo do estudo
 
